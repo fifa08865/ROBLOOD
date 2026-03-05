@@ -1,1 +1,24 @@
-
+getgenv().Config = {
+    AutoFarm = true,
+    TargetLevel = 999,
+    AutoRedeemCode = true,
+    Code = {
+        "UPDATE1",
+        "VALENTINESDAY!",
+        "SORRYFORLATEY",
+        "SORRYBUNDLE",
+        "HERESTHECODE",
+        "YUTAGOAT",
+        "Update 1.5",
+        "MELOINTERACTIVE!E",
+        "20KCCU",
+        "BUGFIXES",
+        "5MINUTEDELAY",
+        "RECORDOFRAGNAROK",
+        "ANIMEPARADOX2026",
+        "RAGNAR",
+        "400KMEMBERS"
+    }
+}
+repeat task.wait() until game:IsLoaded()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/fifa08865/ROBLOOD/refs/heads/main/AniemeParadox_Kaitan.lua"))()
