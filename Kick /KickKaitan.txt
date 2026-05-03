@@ -38,4 +38,4 @@ _G.Config = {
         "Giant Gold Star Barbell",
     }
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/fifa08865/ROBLOOD/refs/heads/main/Kick%20/KickKaitan.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/fifa08865/ROBLOOD/refs/heads/main/Kick%20/KickKaitanV0.0.2"))()
